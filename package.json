@@ -1,0 +1,23 @@
+{
+  "name": "amazon-fake-app",
+  "version": "1.0.0",
+  "description": "basic online amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonjebo/amazon-fake-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonjebo/amazon-fake-app/issues"
+  },
+  "homepage": "https://github.com/jonjebo/amazon-fake-app#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
